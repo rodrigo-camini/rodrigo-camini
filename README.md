@@ -1,15 +1,21 @@
 - 👋 Hi, I’m @rodrigo-camini
 - 👀 I’m interested in ...
- -Projetos de automação de testes
+ - Projetos de automação de testes
 
 - 🌱 I’m currently learning ...
  - JavaScript
- -Appium
- -Java
- -Node
+ - Appium
+ - Java
+ - Node
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Cypress 
+- WebDriverIo
+- Métodos Ágeis
+- C#
+- Java
+- JavaScript
 
 <!---
 rodrigo-camini/rodrigo-camini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
