@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigo-camini
-- 👀 I’m interested in ...
- - Projetos de automação de testes
+- 👀 I’m a QA Engineer with a decade of experience in test analysis and a strong focus on automation, using automation tools such as Selenium, Cypress, WebDriverIo and REST APIs, with proficiency in languages such as C#, JavaScript, Java, and TypeScript
+- I like to dance, watch TV series, play soccer, travel, and play video games. 
 
 - 🌱 I’m currently learning ...
  - JavaScript
