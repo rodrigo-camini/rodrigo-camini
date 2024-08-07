@@ -3,10 +3,8 @@
 - I like to dance, watch TV series, play soccer, travel, and play video games. 
 
 - 🌱 I’m currently learning ...
- - JavaScript
- - Appium
- - Java
- - Node
+ - Robot Framework
+ - CTAL-TAE
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -16,6 +14,7 @@
 - C#
 - Java
 - JavaScript
+- TypeScript
 
 <!---
 rodrigo-camini/rodrigo-camini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
