@@ -10,11 +10,14 @@
 - 📫 How to reach me ...
 - Cypress 
 - WebDriverIo
+- Selenium
+- RestAssured
 - Métodos Ágeis
 - C#
 - Java
 - JavaScript
 - TypeScript
+
 
 <!---
 rodrigo-camini/rodrigo-camini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
